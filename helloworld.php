@@ -1,3 +1,3 @@
 <?php
-    echo "Hello -guten tag- World!!"; // ausgabe helloworld
+    echo "Hello -guten- World!!"; // ausgabe helloworld
 ?>
